@@ -115,7 +115,7 @@ html{
 	left: 30%;
 	transform: translate(-50%, -50%) scale(0);
 	color: gray;
-	font-size: 4.5rem;
+	font-size: 2.5rem;
 	letter-spacing: 50px;
 	z-index: -1;
 	transition: .3s ease letter-spacing;
