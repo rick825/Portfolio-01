@@ -972,12 +972,8 @@ box-shadow: 0 0 1px 0 gray;
 		padding-top: 60px ;
 		padding-right: 10px;
 	}
-        #contact .contact{
-		max-width: 100%;
-	}
 	#contact .contact-items{
 		flex-direction: column;
-		flex-wrap: wrap;
 	}
 	/* end contact section */
 	/* about section */
