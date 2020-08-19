@@ -82,7 +82,7 @@ html{
 	height: 100vh;
 	left: 100%;
 	top: 0;
-	padding-right: 80px;
+	padding-right: 150px;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -112,7 +112,7 @@ html{
 	content: attr(data-after);
 	position: absolute;
 	top: 50%;
-	left: 46%;
+	left: 23%;
 	transform: translate(-50%, -50%) scale(0);
 	color: gray;
 	font-size: 8rem;
@@ -139,7 +139,7 @@ opacity: .3;
 	border: 3px solid white;
 	border-radius: 50%;
 	position: relative;
-	margin-right: 100px;
+	margin-right: 50px;
 	margin-top: 5px;
 	margin-bottom: 5px;
 	display: flex;
@@ -950,7 +950,7 @@ box-shadow: 0 0 1px 0 gray;
 @media only screen and ( max-width:480px){
 	/* header section */
 	#header .hamburger{
-		margin-right: 130px;
+		margin-right: 80px;
 	}
     /* end header section */
     /* hero section */
