@@ -972,7 +972,7 @@ box-shadow: 0 0 1px 0 gray;
 		padding-right: 10px;
 	}
 
-	#contact .contact{
+	#contact .contact-items{
 		flex-direction: row;
 	}
 	/* end contact section */
