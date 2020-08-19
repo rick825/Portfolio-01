@@ -950,7 +950,7 @@ box-shadow: 0 0 1px 0 gray;
 @media only screen and ( max-width:480px){
 	/* header section */
 	#header .hamburger{
-		margin-right: 170px;
+		margin-right: 130px;
 	}
     /* end header section */
     /* hero section */
