@@ -112,10 +112,10 @@ html{
 	content: attr(data-after);
 	position: absolute;
 	top: 50%;
-	left: 23%;
+	left: 30%;
 	transform: translate(-50%, -50%) scale(0);
 	color: gray;
-	font-size: 8rem;
+	font-size: 4.5rem;
 	letter-spacing: 50px;
 	z-index: -1;
 	transition: .3s ease letter-spacing;
@@ -128,7 +128,7 @@ opacity: .3;
 }
 #header .nav-list ul li:hover a{
 	color: crimson;
-	font-size: 1.3;
+	font-size: 2.6;
 }
 
 #header .hamburger{
@@ -973,7 +973,7 @@ box-shadow: 0 0 1px 0 gray;
 	}
 
 	#contact .contact{
-		flex-direction: 
+		flex-direction: row;
 	}
 	/* end contact section */
 	/* about section */
