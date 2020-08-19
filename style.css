@@ -948,7 +948,7 @@ box-shadow: 0 0 1px 0 gray;
 }
 /* end media query for tablet*/
 /* media query for phone */
-@media only screen and ( max-width:480px){
+@media only screen and ( max-width:760px){
 	/* header section */
 	#header .hamburger{
 		margin-right: 80px;
