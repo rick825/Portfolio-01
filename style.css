@@ -973,12 +973,6 @@ box-shadow: 0 0 1px 0 gray;
 		padding-right: 10px;
 	}
 	
-	#contact .contact-items{
-    	width: 100%;
-    	display: flex;
-    	flex-direction: column;
-
-    }
 	/* end contact section */
 	/* about section */
 	#about .section-title{
