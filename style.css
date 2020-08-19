@@ -643,7 +643,7 @@ font-weight: 500;
 /* contact section */
 #contact .contact{
 	flex-direction: column;
-	max-width: 1800px;
+	max-width: 1500px;
 	padding-top: 20px;
 	margin: 0 auto ;
 	/* background-image: linear-gradient(315deg, #abbaab 0%, #ffffff 80%); */
