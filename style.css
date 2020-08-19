@@ -974,7 +974,7 @@ box-shadow: 0 0 1px 0 gray;
 	}
 	
 	#contact .contact-items{
-    	width: 100%;
+    	width: 100px;
     	display: flex;
     	flex-direction: row;
 
