@@ -644,7 +644,7 @@ font-weight: 500;
 
 #contact .contact{
 	flex-direction: column;
-	max-width: 1600px;
+	max-width: 100%;
 	padding-top: 20px;
 	margin: 0 auto ;
 	/* background-image: linear-gradient(315deg, #abbaab 0%, #ffffff 80%); */
@@ -973,8 +973,11 @@ box-shadow: 0 0 1px 0 gray;
 		padding-right: 10px;
 	}
 	#contact .contact-items{
-		flex-direction: column;
-	}
+    	width: 100%;
+    	display: flex;
+    	flex-direction: row;
+
+    }
 	/* end contact section */
 	/* about section */
 	#about .section-title{
