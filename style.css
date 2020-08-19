@@ -641,14 +641,10 @@ font-weight: 500;
 
 /* end of about section */
 /* contact section */
-#contact{
-max-width: 100%;
-	overflow-wrap: break-word;
-}
 
 #contact .contact{
 	flex-direction: column;
-	max-width: 1800px;
+	max-width: 1600px;
 	padding-top: 20px;
 	margin: 0 auto ;
 	/* background-image: linear-gradient(315deg, #abbaab 0%, #ffffff 80%); */
