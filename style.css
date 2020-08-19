@@ -648,7 +648,7 @@ max-width: 100%;
 
 #contact .contact{
 	flex-direction: column;
-	max-width: 1600px;
+	max-width: 1800px;
 	padding-top: 20px;
 	margin: 0 auto ;
 	/* background-image: linear-gradient(315deg, #abbaab 0%, #ffffff 80%); */
