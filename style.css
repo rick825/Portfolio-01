@@ -139,7 +139,7 @@ opacity: .3;
 	border: 3px solid white;
 	border-radius: 50%;
 	position: relative;
-	margin-right: 50px;
+	margin-right: 100px;
 	margin-top: 5px;
 	margin-bottom: 5px;
 	display: flex;
@@ -950,7 +950,7 @@ box-shadow: 0 0 1px 0 gray;
 @media only screen and ( max-width:440px){
 	/* header section */
 	#header .hamburger{
-		margin-right: 200px;
+		margin-right: 100px;
 	}
     /* end header section */
     /* hero section */
