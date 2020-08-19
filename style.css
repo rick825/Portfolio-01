@@ -979,6 +979,7 @@ box-shadow: 0 0 1px 0 gray;
 
 	#contact .contact-items{
 		flex-direction: column;
+		flex-wrap: wrap;
 	}
 	/* end contact section */
 	/* about section */
