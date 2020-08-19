@@ -947,10 +947,10 @@ box-shadow: 0 0 1px 0 gray;
 }
 /* end media query for tablet*/
 /* media query for phone */
-@media only screen and ( max-width:440px){
+@media only screen and ( max-width:480px){
 	/* header section */
 	#header .hamburger{
-		margin-right: 130px;
+		margin-right: 170px;
 	}
     /* end header section */
     /* hero section */
