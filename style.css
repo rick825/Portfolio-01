@@ -974,9 +974,9 @@ box-shadow: 0 0 1px 0 gray;
 	}
 	
 	#contact .contact-items{
-    	width: 100px;
+    	width: 550;
     	display: flex;
-    	flex-direction: row;
+    	flex-direction: column;
 
     }
 	/* end contact section */
